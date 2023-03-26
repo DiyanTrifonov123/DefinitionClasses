@@ -1,0 +1,8 @@
+E:\Programming\DefiniraneNaKlasove\Semeistvo\bin\Debug\Semeistvo.exe.config
+E:\Programming\DefiniraneNaKlasove\Semeistvo\bin\Debug\Semeistvo.exe
+E:\Programming\DefiniraneNaKlasove\Semeistvo\bin\Debug\Semeistvo.pdb
+E:\Programming\DefiniraneNaKlasove\Semeistvo\obj\Debug\Semeistvo.csproj.AssemblyReference.cache
+E:\Programming\DefiniraneNaKlasove\Semeistvo\obj\Debug\Semeistvo.csproj.SuggestedBindingRedirects.cache
+E:\Programming\DefiniraneNaKlasove\Semeistvo\obj\Debug\Semeistvo.csproj.CoreCompileInputs.cache
+E:\Programming\DefiniraneNaKlasove\Semeistvo\obj\Debug\Semeistvo.exe
+E:\Programming\DefiniraneNaKlasove\Semeistvo\obj\Debug\Semeistvo.pdb

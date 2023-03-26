@@ -1,0 +1,8 @@
+E:\Programming\DefiniraneNaKlasove\Statistika\bin\Debug\Statistika.exe.config
+E:\Programming\DefiniraneNaKlasove\Statistika\bin\Debug\Statistika.exe
+E:\Programming\DefiniraneNaKlasove\Statistika\bin\Debug\Statistika.pdb
+E:\Programming\DefiniraneNaKlasove\Statistika\obj\Debug\Statistika.csproj.AssemblyReference.cache
+E:\Programming\DefiniraneNaKlasove\Statistika\obj\Debug\Statistika.csproj.SuggestedBindingRedirects.cache
+E:\Programming\DefiniraneNaKlasove\Statistika\obj\Debug\Statistika.csproj.CoreCompileInputs.cache
+E:\Programming\DefiniraneNaKlasove\Statistika\obj\Debug\Statistika.exe
+E:\Programming\DefiniraneNaKlasove\Statistika\obj\Debug\Statistika.pdb
